@@ -9,7 +9,7 @@ bottonpre.addEventListener("click",legal)
 function optenernom(){
     let nombre = document.querySelector("#nombre").value;
     let edad = document.querySelector("#edad").value;
-   alert("su nombre es : "+nombre+"su edad : "+edad);   
+   alert("su nombre es : "+nombre+" su edad : "+edad);   
 }
 function saludo(){
     let nombre = document.querySelector("#nombre").value;
